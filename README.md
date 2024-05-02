@@ -182,7 +182,7 @@ Countries
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricoders23&show_icons=true&locale=es&theme=dark" alt="Patricoders23" />
 </p>
 
-<h3 align="left">Conocimientos</h3>
+<h3 align="left">Knowledge</h3>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -192,7 +192,7 @@ Countries
             </td>
             <td width="80px" align="center">
             <span><strong>Amazon Web Services (AWS)</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Google Cloud Platform (GCP)</strong></span><br>
@@ -205,6 +205,7 @@ Countries
         </tr>
     </tbody>
 </table>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=patricoders23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
