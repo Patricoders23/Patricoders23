@@ -184,7 +184,7 @@ graph TD;
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # ➕ Plus
-1. El primer titulo, solo copia el codigo
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricoders23&show_icons=true&locale=es&theme=dark" alt="Patricoders23" />
 </p>
