@@ -2,7 +2,7 @@
 
 About me / Acerca de mi 👩‍💻
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b30ff&size=33&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
@@ -217,10 +217,6 @@ Countries
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
             </td>
             <td width="16.6%" align="center">
-            <span><strong>Scikit-learn</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
-            </td>
-            <td width="16.6%" align="center">
             <span><strong>Linux</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
             </td>
@@ -237,10 +233,6 @@ Countries
             <td width="16.6%" align="center">
             <span><strong>NumPy</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-            </td>
-            <td width="16.6%" align="center">
-            <span><strong>Polars</strong></span><br>
-            <img height="32px" src="https://avatars.githubusercontent.com/u/35867458?s=200&v=4">
             </td>
             <td width="16.6%" align="center">
             <span><strong>Matplotlib</strong></span><br>
