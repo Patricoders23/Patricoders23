@@ -1,30 +1,26 @@
 # I am Patricia 
-1. About me / Acerca de mi 👩‍💻
+
+About me / Acerca de mi 👩‍💻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
 
-
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
-1. Doing data 
 
+Doing data 
   
 <h1 align="center">Github Metrics </h1>
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patricoders23&theme=github_dark" />
 </p>
 
-
-2. Daily data 
+Daily data 
    
 [![Patricoders23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patricoders23&bg_color=0d1117&color=ffffff&line=ff69b4&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!--Skill And More Information--> 
 
 # 📊 Stats
-1. El primer titulo, solo copia el codigo
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=patricoders23&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Patricoders23 github stats" /> 
@@ -33,14 +29,13 @@
 </div>
 
 
-2. Contributions
+Contributions
    
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=patricoders23&theme=tokyonight_duo&hide_border=true" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricoders23&show_icons=true&locale=es&theme=dark" alt="Patricoders23" />
 </p>
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -50,7 +45,6 @@
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=lpgguzman.coders23@gmail.com)](lpgguzman.coders23@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/patriciagarciaguzmn)
 </div>
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -90,7 +84,7 @@ graph TD;
     Big-Data -->Apache-Spark;
     Big-Data -->Scala;
    ```
-2. Cloud
+3. Cloud
 
 ```mermaid
 graph TD;
@@ -113,8 +107,6 @@ graph TD;
     GCP-->DEVOP`s;
    ```    
 
-
-
 <p align="center">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">    
@@ -131,7 +123,8 @@ graph TD;
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🗺️ Map 
-1. Coding from Madrid 📌
+
+Coding from Madrid 📌
 
 ```geojson
 {
@@ -168,7 +161,7 @@ graph TD;
 ![GitHub Followers](https://img.shields.io/github/stars/patricoders23?style=social)
 
 
-3. Countries
+Countries
 
 [Click Here](https://s01.flagcounter.com/more/X70) 👈 ``0D1117``
 
@@ -228,7 +221,6 @@ graph TD;
  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
- 
  <!--Início da tabela e espessura da borda-->
  <!--Inicial table and width border-->
  <table border = "15">
@@ -237,8 +229,10 @@ graph TD;
   </table>   
  <!--Final da Tabela - End table-->
 </div>
+
 <!--Final Projetos de Estudos Futuros - End Future Studies Projects-->  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=patricoders23&style=for-the-badge">
 </a>
