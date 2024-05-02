@@ -95,7 +95,13 @@ graph TD;
     Instances-EC2 -->Reserved;
     Instances-EC2 -->Host;
     AWS-->Storage-S3;
+    Storage-S3-->Standard;
+    Storage-S3-->Intelligent-Tiering;
+    Storage-S3-->Infrequent-Access;
+    Storage-S3-->Glacier;
     AWS-->Virtual-Private-Cloud-VPC;
+    Virtual-Private-Cloud-VPC-->Security-Groups;
+    Virtual-Private-Cloud-VPC-->Subnets;
     AWS--> Database;
     Database --> RDS;
     RDS --> Aurora;
@@ -108,18 +114,26 @@ graph TD;
    ```    
 
 <p align="center">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">    
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
-<img src="" width="48" title="">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" width="48" title="Apache Spark">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" title="Google Cloud Platform">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL"> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" title="Power BI">
-<p/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">    
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
+  <img src="" width="48" title="">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" width="48" title="Apache Spark">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" title="Google Cloud Platform">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL"> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" title="Power BI">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" title="Tableau">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png" width="48" title="NumPy">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="48" title="Pandas">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" title="Scikit-learn">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" title="PyTorch">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" width="48" title="TensorFlow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" title="XGBoost">
+</p>
+
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🗺️ Map 
@@ -183,31 +197,64 @@ Countries
 </p>
 
 <h3 align="left">Knowledge</h3>
-<table width="320px">
+<table width="100%">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="16.6%" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
             </td>
-            <td width="80px" align="center">
+            <td width="16.6%" align="center">
             <span><strong>Amazon Web Services (AWS)</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="16.6%" align="center">
             <span><strong>Google Cloud Platform (GCP)</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="16.6%" align="center">
             <span><strong>Apache Spark</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>Scikit-learn</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="16.6%" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>Pandas</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>NumPy</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>Polars</strong></span><br>
+            <img height="32px" src="https://avatars.githubusercontent.com/u/35867458?s=200&v=4">
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>Matplotlib</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
+            </td>
+            <td width="16.6%" align="center">
+            <span><strong>Seaborn</strong></span><br>
+            <img height="32px" src="https://avatars.githubusercontent.com/u/15709601?s=200&v=4">
             </td>
         </tr>
     </tbody>
 </table>
 
-
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=patricoders23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
