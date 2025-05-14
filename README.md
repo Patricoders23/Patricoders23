@@ -29,10 +29,6 @@ Doing data
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patricoders23&theme=github_dark" />
 </p>
 
-Daily data 
-   
-[![Patricoders23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patricoders23&bg_color=0d1117&color=ffffff&line=ff69b4&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--Skill And More Information--> 
 
 # 📊 Stats
@@ -153,10 +149,7 @@ graph TD;
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🗺️ Map 
 
-![Madrid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Map_of_Spain_%28Madrid_highlighted%29.svg/800px-Map_of_Spain_%28Madrid_highlighted%29.svg.png)
-
 📍 Coding from Madrid, Spain
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 👁 Views 
