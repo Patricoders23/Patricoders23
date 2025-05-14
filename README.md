@@ -135,12 +135,9 @@ graph TD;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg" width="48" title="Apache Spark">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" title="Google Cloud Platform">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL"> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" title="Power BI">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" title="Tableau">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png" width="48" title="NumPy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="48" title="Pandas">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" title="Scikit-learn">
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" title="PyTorch">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" width="48" title="TensorFlow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" title="XGBoost">
 </p>
@@ -150,6 +147,7 @@ graph TD;
 # 🗺️ Map 
 
 📍 Coding from Madrid, Spain
+
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 👁 Views 
@@ -164,10 +162,13 @@ Countries
 [Click Here](https://s01.flagcounter.com/more/X70) 👈 ``0D1117``
 
 <!--- Country ---> 
+
 <a href="https://info.flagcounter.com/Wdl7"><img src="https://s11.flagcounter.com/count2/Wdl7/bg_FDFCFF/txt_000000/border_CC4EC4/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🐛 Snyken 
+
 1. My snake path
    
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -261,7 +262,11 @@ Countries
     <img src="https://komarev.com/ghpvc/?username=patricoders23&style=for-the-badge">
 </a>
 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+## 🏙️ Desde Madrid, con código 📌
+
+Gracias por visitar mi perfil 💜 ¡Estoy abierta a colaborar en proyectos de datos, energía y tecnología!
 
 
 
