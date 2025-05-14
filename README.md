@@ -8,6 +8,16 @@ Soy Ingeniera de Petróleo con experiencia en el sector energético y en plena t
 Me especializo en **Ciencia de Datos**, **Machine Learning**, y **Cloud Computing (AWS/GCP)**.  
 Actualmente desarrollo proyectos aplicando Python, SQL, Power BI y herramientas de IA.
 
+## 🧠 Tecnologías que manejo
+
+**Lenguajes y Librerías:**  
+Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn
+
+**Herramientas de Visualización:**  
+Power BI · Tableau
+
+**Cloud y Big Data:**  
+AWS (EC2, S3, IAM, RDS, VPC) · GCP · Apache Spark
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
