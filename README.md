@@ -2,22 +2,23 @@ About me / Acerca de mi 👩‍💻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b30ff&size=33&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
 
-# 👩‍💻 Hola, soy Patricia García
+# 👩‍💻 Hi, I'm Patricia García
 
-Soy Ingeniera de Petróleo con experiencia en el sector energético y en plena transición hacia el mundo de los Datos.  
-Me especializo en **Ciencia de Datos**, **Machine Learning**, y **Cloud Computing (AWS/GCP)**.  
-Actualmente desarrollo proyectos aplicando Python, SQL, Power BI y herramientas de IA.
+I'm a Petroleum Engineer with experience in the energy sector, currently transitioning into the world of Data.  
+I specialize in **Data Science**, **Machine Learning**, and **Cloud Computing (AWS/GCP)**.  
+Currently, I'm working on projects using Python, SQL, Power BI, and AI tools.
 
-## 🧠 Tecnologías que manejo
+## 🧠 Technologies I work with
 
-**Lenguajes y Librerías:**  
+**Languages and Libraries:**  
 Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn
 
-**Herramientas de Visualización:**  
+**Data Visualization Tools:**  
 Power BI · Tableau
 
-**Cloud y Big Data:**  
+**Cloud & Big Data:**  
 AWS (EC2, S3, IAM, RDS, VPC) · GCP · Apache Spark
+
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
@@ -26,6 +27,7 @@ AWS (EC2, S3, IAM, RDS, VPC) · GCP · Apache Spark
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patricoders23&theme=github_dark" />
 </p>
+
 
 <!--Skill And More Information--> 
 
@@ -99,23 +101,12 @@ graph TD;
 graph TD;
     Cloud-->AWS;
     AWS-->Instances-EC2;
-    Instances-EC2 -->On-Demand;
-    Instances-EC2 -->Dedicated;
-    Instances-EC2 -->Reserved;
-    Instances-EC2 -->Host;
     AWS-->Storage-S3;
-    Storage-S3-->Standard;
-    Storage-S3-->Intelligent-Tiering;
-    Storage-S3-->Infrequent-Access;
-    Storage-S3-->Glacier;
     AWS-->Virtual-Private-Cloud-VPC;
     Virtual-Private-Cloud-VPC-->Security-Groups;
     Virtual-Private-Cloud-VPC-->Subnets;
     AWS--> Database;
     Database --> RDS;
-    RDS --> Aurora;
-    RDS --> Redshift;
-    RDS --> Athena;
     Database --> Dynamo;
     AWS--> IAM;
     Cloud-->GCP;
