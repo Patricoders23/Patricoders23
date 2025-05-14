@@ -153,34 +153,10 @@ graph TD;
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🗺️ Map 
 
-Coding from Madrid 📌
+![Madrid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Map_of_Spain_%28Madrid_highlighted%29.svg/800px-Map_of_Spain_%28Madrid_highlighted%29.svg.png)
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-3.7038, 40.4168],
-            [-3.7038, 40.4168],
-            [-3.7038, 40.4168],
-            [-3.7038, 40.4168],
-            [-3.7038, 40.4168]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+📍 Coding from Madrid, Spain
+
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 👁 Views 
