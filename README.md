@@ -4,6 +4,13 @@ About me / Acerca de mi 👩‍💻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b30ff&size=33&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
 
+# 👩‍💻 Hola, soy Patricia García
+
+Soy Ingeniera de Petróleo con experiencia en el sector energético y en plena transición hacia el mundo de los Datos.  
+Me especializo en **Ciencia de Datos**, **Machine Learning**, y **Cloud Computing (AWS/GCP)**.  
+Actualmente desarrollo proyectos aplicando Python, SQL, Power BI y herramientas de IA.
+
+
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
 
