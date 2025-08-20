@@ -253,7 +253,7 @@ Countries
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## 🏙️ Desde Madrid, con código 📌
+## 🏙️ Desde Berlín, con código 📌
 
 Gracias por visitar mi perfil 💜 ¡Estoy abierta a colaborar en proyectos de datos, energía y tecnología!
 
