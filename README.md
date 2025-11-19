@@ -2,26 +2,16 @@ About me / Acerca de mi 👩‍💻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b30ff&size=33&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
 
-# 👋 Hi, I'm Patricia García
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b30ff&size=35&center=true&vCenter=true&width=1000&lines=Petroleum+Engineer+%7C+Data+Scientist;AWS+Cloud+%7C+Machine+Learning+Enthusiast;Welcome+to+my+GitHub!)
+
 
 # 👩‍💻 Hi, I'm Patricia García
 
 I'm a Petroleum Engineer with experience in the energy sector, currently transitioning into the world of Data.  
 I specialize in **Data Science**, **Machine Learning**, and **Cloud Computing (AWS/GCP)**.  
 Currently, I'm working on projects using Python, SQL, Power BI, and AI tools.
-
-## 🧠 Technologies I work with
-
-**Languages and Libraries:**  
-Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn
-
-**Data Visualization Tools:**  
-Power BI · Tableau
-
-**Cloud & Big Data:**  
-AWS (EC2, S3, IAM, RDS, VPC) · GCP · Apache Spark
 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -52,6 +42,7 @@ Contributions
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricoders23&show_icons=true&locale=es&theme=dark" alt="Patricoders23" />
 </p>
 
+
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 # 🌐 Social Media
@@ -61,7 +52,9 @@ Contributions
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/patriciagarciaguzmn)
 </div>
 
+
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 # 👩‍💻Skills
 
@@ -75,7 +68,8 @@ graph TD;
     Data-Analyst-->Tableu;
     Data-Analyst-->Excel;
     Data-Analyst-->Knime;
-   ```
+```
+
 2. Data Science
 
 ```mermaid
@@ -99,6 +93,7 @@ graph TD;
     Big-Data -->Apache-Spark;
     Big-Data -->Scala;
    ```
+
 3. Cloud
 
 ```mermaid
@@ -256,8 +251,6 @@ Countries
 </a>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-## 🏙️ Desde Berlín, con código 📌
 
 Gracias por visitar mi perfil 💜 ¡Estoy abierta a colaborar en proyectos de datos, energía y tecnología!
 
