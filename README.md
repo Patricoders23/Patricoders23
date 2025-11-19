@@ -1,4 +1,4 @@
-About me / Acerca de mi 👩‍💻
+# 👩‍💻 About me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b30ff&size=33&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+a+Petroleum+Engineer+learning+Data+Science+&+Analytics+and+AWS+Cloud;Welcome!)
 
