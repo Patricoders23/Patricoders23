@@ -38,6 +38,8 @@ Currently, I'm working on projects using Python, SQL, Power BI, and AI tools.
    
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=patricoders23&theme=tokyonight_duo&hide_border=true" />
+
+
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricoders23&show_icons=true&locale=es&theme=dark" alt="Patricoders23" />
 </p>
