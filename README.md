@@ -26,7 +26,6 @@ Currently, I'm working on projects using Python, SQL, Power BI, and AI tools.
 <!--Skill And More Information--> 
 
 
-# 📊 Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=patricoders23&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Patricoders23 github stats" /> 
@@ -35,7 +34,7 @@ Currently, I'm working on projects using Python, SQL, Power BI, and AI tools.
 </div>
 
 
-# Contributions
+# 📊 Contributions
    
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=patricoders23&theme=tokyonight_duo&hide_border=true" />
