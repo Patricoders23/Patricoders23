@@ -58,7 +58,7 @@ Currently, I'm working on projects using Python, SQL, Power BI, and AI tools.
 
 # 👩‍💻Skills
 
-1. Data Analyst
+## 1. Data Analyst
     
 ```mermaid
 graph TD;
@@ -70,7 +70,7 @@ graph TD;
     Data-Analyst-->Knime;
 ```
 
-2. Data Science
+## 2. Data Science
 
 ```mermaid
 graph TD;
@@ -94,7 +94,7 @@ graph TD;
     Big-Data -->Scala;
    ```
 
-3. Cloud
+## 3. Cloud
 
 ```mermaid
 graph TD;
@@ -145,7 +145,7 @@ graph TD;
 ![GitHub Followers](https://img.shields.io/github/stars/patricoders23?style=social)
 
 
-Countries
+# Countries
 
 [Click Here](https://s01.flagcounter.com/more/X70) 👈 ``0D1117``
 
@@ -252,6 +252,6 @@ Countries
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-Gracias por visitar mi perfil 💜 ¡Estoy abierta a colaborar en proyectos de datos, energía y tecnología!
+### Gracias por visitar mi perfil 💜 ¡Estoy abierta a colaborar en proyectos de datos, energía y tecnología!
 
 
